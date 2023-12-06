@@ -2,7 +2,7 @@
 
 Documenté is a framework for writing executable specifications for web applications.
 
-It is based on [Cypress](https://www.cypress.io/) and builds on concepts from [Behaviour-Driven-Development](https://en.wikipedia.org/wiki/Behavior-driven_development) and [literate programming](https://en.wikipedia.org/wiki/Literate_programming).
+It integrates into test frameworks such as [Cypress](https://www.cypress.io/) or [Playwright](https://playwright.dev/), and builds on concepts from [Behaviour-Driven-Development](https://en.wikipedia.org/wiki/Behavior-driven_development) and [literate programming](https://en.wikipedia.org/wiki/Literate_programming).
 
 ##  Why Documenté?
 
