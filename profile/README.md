@@ -29,6 +29,8 @@ The generated tests are then executed by Cypress.
 
 Documenté can be launched from the command line, from its programmatic API, or can be integrated in a CI/CD pipeline.
 
+The [example project](https://github.com/documente/example-sut) will also give you a good idea of how to write specifications.
+
 ## Getting started
 
 Refer to the [Documenté repository](https://github.com/documente/documente) for more information.
