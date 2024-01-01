@@ -41,6 +41,8 @@ The generated tests are then executed by Cypress.
 
 Documenté can be launched from the command line, from its programmatic API, or can be integrated in a CI/CD pipeline.
 
+You can refer to the [kitchen sink application](https://documente.github.io/kitchen-sink) to get an overview of Documenté testing capabilities.
+
 The [example project](https://github.com/documente/example-sut) will also give you a good idea of how to write specifications.
 
 ## Getting started
