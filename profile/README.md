@@ -48,3 +48,12 @@ The [example project](https://github.com/documente/example-sut) will also give y
 ## Getting started
 
 Refer to the [Documenté website](https://documente.github.io/) for more information.
+
+## Repositories overview
+
+Here is an overview of the different repositories you'll find in this organization :
+- [documente](https://github.com/documente/documente): the Documenté tooling to generate and run tests
+- [phrase](https://github.com/documente/phrase): the Phrasé language used in Documenté tests
+- [example-sut](https://github.com/documente/example-sut): a demo application along with its documentation to showcase Documenté features and its integration into CI/CD pipelines
+- [kitchen-sink](https://github.com/documente/kitchen-sink): a web application and its Documenté tests that cover Documenté's essential testing features
+- [phrase-checker](https://github.com/documente/phrase-checker): a web application to check Phrasé syntax
