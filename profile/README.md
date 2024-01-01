@@ -45,4 +45,4 @@ The [example project](https://github.com/documente/example-sut) will also give y
 
 ## Getting started
 
-Refer to the [Documenté website](https://documente.github.io/documente/) for more information.
+Refer to the [Documenté website](https://documente.github.io/) for more information.
