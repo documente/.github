@@ -57,3 +57,7 @@ Here is an overview of the different repositories you'll find in this organizati
 - [example-sut](https://github.com/documente/example-sut): a demo application along with its documentation to showcase Documenté features and its integration into CI/CD pipelines
 - [kitchen-sink](https://github.com/documente/kitchen-sink): a web application and its Documenté tests that cover Documenté's essential testing features
 - [phrase-checker](https://github.com/documente/phrase-checker): a web application to check Phrasé syntax
+
+## Contribute
+
+To date, Documented is a solo initiative. I would be delighted to involve contributors in this endeavor, whether it's contributing to the framework's design, testing and suggesting modifications, or participating in the implementation. If you're interested, feel free to contact me at the following email address: pc.kerneis[at]gmail[dot]com.
