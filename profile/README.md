@@ -36,10 +36,12 @@ Specification issues are also easier to spot and fix, as they are located in the
 
 ## How does it work?
 
-Documenté reads markdown files containing Phrasé specifications and generates [Cypress](https://www.cypress.io/) tests from them.
-The generated tests are then executed by Cypress.
+Documenté reads markdown files containing Phrasé specifications and generates tests from them.
+The generated tests are then executed by your test runner of choice.
 
 Documenté can be launched from the command line, from its programmatic API, or can be integrated in a CI/CD pipeline.
+
+You can also skip the test extraction and directly write your tests with Phrasé inside your favorite automated test framework.
 
 You can refer to the [kitchen sink application](https://documente.github.io/kitchen-sink) to get an overview of Documenté testing capabilities.
 
