@@ -25,9 +25,9 @@ However, writing and maintaining automated tests can be a tedious and time-consu
 This is especially true for end-to-end tests, which are often written in a way that is not very readable and not very maintainable.
 
 Documenté aims to solve this problem by providing a framework that allows to write automated tests
-in an almost natural language called [Phrasé](https://github.com/documente/phrase), using a syntax that is very close to the one used in BDD (Behaviour-Driven-Development).
+in an almost natural language called [Phrasé](https://github.com/documente/documente/tree/main/packages/phrase), using a syntax that is very close to the one used in BDD (Behaviour-Driven-Development).
 
-Tests written with [Phrasé](https://github.com/documente/phrase) are meant to be included in the documentation of the application.
+Tests written with [Phrasé](https://github.com/documente/documente/tree/main/packages/phrase) are meant to be included in the documentation of the application.
 This allows to keep the documentation and the tests in sync, and to make the tests more accessible to non-technical people.
 
 Regressions are easier to detect, as the tests are written in a way that is closer to the way the application is used.
@@ -54,9 +54,7 @@ Refer to the [Documenté website](https://documente.github.io/) for more informa
 ## Repositories overview
 
 Here is an overview of the different repositories you'll find in this organization :
-- [documente](https://github.com/documente/documente): the Documenté tooling to generate and run tests
-- [phrase](https://github.com/documente/phrase): the Phrasé language used in Documenté tests
-- [minimal-example](https://github.com/documente/minimal-example): a minimal project to generate and run tests with Documenté against example.com
+- [documente](https://github.com/documente/documente): the core monorepo Documenté, including Phrasé language and tooling to generate and run tests
 - [example-sut](https://github.com/documente/example-sut): a demo application along with its documentation to showcase Documenté features and its integration into CI/CD pipelines
 - [kitchen-sink](https://github.com/documente/kitchen-sink): a web application and its Documenté tests that cover Documenté's essential testing features
 - [phrase-checker](https://github.com/documente/phrase-checker): a web application to check Phrasé syntax
