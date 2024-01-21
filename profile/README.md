@@ -43,7 +43,7 @@ Documenté can be launched from the command line, from its programmatic API, or 
 
 You can also skip the test extraction and directly write your tests with Phrasé inside your favorite automated test framework.
 
-You can refer to the [kitchen sink application](https://documente.github.io/kitchen-sink) to get an overview of Documenté testing capabilities.
+You can refer to the [kitchen sink application](https://documente.github.io/documente) to get an overview of Documenté testing capabilities.
 
 The [example project](https://github.com/documente/example-sut) will also give you a good idea of how to write specifications.
 
